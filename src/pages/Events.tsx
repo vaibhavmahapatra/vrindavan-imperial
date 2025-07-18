@@ -291,9 +291,6 @@ const LuxuryResortEvents = () => {
           <div className="absolute inset-0 bg-black/20"></div>
           <div className="relative z-10">
             <h2 className="text-4xl font-bold mb-6">Ready to Create Your Dream Event?</h2>
-            <p className="text-xl mb-8 text-blue-100 max-w-2xl mx-auto">
-              Let our expert team transform your vision into an extraordinary celebration that will be remembered for years to come
-            </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
               <a href="/Contact">
               <button className="bg-white text-blue-600 px-10 py-4 rounded-full font-bold text-lg hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg">
